@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Mann Acharya 🔗 [Portfolio](https://mannacharya.com) 
+# 👋 Hi there, I'm Mann Acharya 
 
-**TensorFlow Certified ML Engineer** | **Engineer @ DPS, UnternehmerTUM**
+**TensorFlow Certified ML Engineer** | **Engineer @ DPS, UnternehmerTUM** 🔗 [Portfolio](https://mannacharya.com) 
 
 ## 🌟 About Me
 
