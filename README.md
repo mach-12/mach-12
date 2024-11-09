@@ -8,7 +8,7 @@ Hello! I'm Mann, a passionate machine learning engineer dedicated to transformin
 
 ### 🔍 Interests & Strengths
 
-- **Research:** Exploring advancements in deep learning, natural language processing, and anomaly detection.
+- **Research:** Exploring advancements in deep learning, natural language processing, and computer vision.
 - **Technology:** Innovating with cutting-edge frameworks and tools to create scalable and efficient solutions.
 - **Strengths:** Problem-solving, iterative development, and cross-functional collaboration to achieve human-level performance.
 
