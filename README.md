@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mann Acharya 
 
-**TensorFlow Certified ML Engineer** | **Engineer @ DPS, UnternehmerTUM** 🔗 [Portfolio](https://mannacharya.com) 
+**TensorFlow Certified ML Engineer** | **Engineer @ DPS, UnternehmerTUM**
 
 ## 🌟 About Me
 
@@ -80,16 +80,6 @@ Complete implementation of the "An Image is Worth 16x16 Words" paper.
 🗓️ *Released: December 2023*  
 Created an offline RAG ChatBot that can answer in Sanskrit and discuss the values of the Gita.  
 **Technologies:** PyTorch, Transformers, Ollama, LangChain, Streamlit, Docker
-
----
-
-## 📰 Latest News
-
-- **May 2024**: Joined **Develop4Good** as a Student Engineer.
-- **February 2024**: Started as Technical Project Manager at **LyfeLynk**.
-- **March 2024**: Released **Annotate Everything** platform.
-- **January 2024**: Launched **Zusammenfassen** summarization app.
-- **November 2023**: Won Industry Project Showcase with **Equifolio.ai**.
 
 ---
 
