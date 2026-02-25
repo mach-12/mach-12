@@ -4,16 +4,16 @@ I'm into AI Research, Consulting and Community Building
 
 ## Experiences
 
-### **AI Engineer @ Digital Product School, UnternehmerTUM**
+**AI Engineer @ Digital Product School, UnternehmerTUM**
 **Digital Product School, UnternehmerTUM, India · Remote**  
 
-### **Computer Vision Engineer @ Samsung Display**
+**Computer Vision Engineer @ Samsung Display**
 **Samsung Display Noida, India · On-Site**  
 
-### **Technical Project Manager @ LyfeLynk**
+**Technical Project Manager @ LyfeLynk**
 **LyfeLynk.in, Delhi, India · Remote**  
 
-### **Student Engineer @ Develop4Good**
+**Student Engineer @ Develop4Good**
 **Develop4Good - Ashoka.org, Germany · Remote**  
 
 ## Get in Touch
